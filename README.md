@@ -40,7 +40,7 @@ This repository contains a collection of machine learning projects completed. Ea
   - Neural Networks
 - Implementation of grid search and random search for hyperparameter tuning
 - ROC curve analysis and performance metrics comparison
-![roc curve](perceptron-model/roc.png)
+![roc curve](Perceptron-model/roc.png)
 
 
 ## Author
