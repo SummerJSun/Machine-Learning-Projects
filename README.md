@@ -16,13 +16,13 @@ This repository contains a collection of machine learning projects completed. Ea
 - Data preprocessing techniques
 - Model comparison with Naive Bayes
 - Performance visualization and analysis
-![KNN Performance Sample](knn/accuracy_plot.png)
+![KNN Performance Sample](KNN-Implementation/accuracy_plot.png)
 
 ### Decision Tree and Model Evaluations
 - Implementation of Decision Tree Classifier for heart disease prediction
 - Evaluation using various metrics (accuracy, precision, recall, F-measure, etc.)
 - Detailed performance analysis and model evaluation
-![Decision Tree Performance Sample](decision-tree-and-model-evaluations/performance-summary.png)
+![Decision Tree Performance Sample](DecisionTree-Implementation/performance-summary.png)
 
 ### Tweets Sentiment Analysis
 - Analysis of tweet impact on stock market performance
